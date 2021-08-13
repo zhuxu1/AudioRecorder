@@ -15,10 +15,10 @@ https://www.jianshu.com/p/c0222de2faed
 https://github.com/zhaolewei/ZlwAudioRecorder
 
 ### Gradle
-[![](https://jitpack.io/v/zhaolewei/ZlwAudioRecorder.svg)](https://jitpack.io/#zhaolewei/ZlwAudioRecorder)
+[![](https://jitpack.io/v/zhuxu1/AudioRecorder.svg)](https://jitpack.io/#zhuxu1/AudioRecorder)
 
     dependencies {
-	        implementation 'com.github.zhaolewei:ZlwAudioRecorder:v1.07'
+	        implementation 'com.github.zhuxu1:AudioRecorder:0.1'
 	}
 
     allprojects {
