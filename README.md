@@ -8,9 +8,6 @@
 5. 可配置录音的采样率、位宽  （v1.04更新）
 5. 录音可视化 （v1.05更新）
 
-### 博客
-https://www.jianshu.com/p/c0222de2faed
-
 ### 原项目地址
 https://github.com/zhaolewei/ZlwAudioRecorder
 
